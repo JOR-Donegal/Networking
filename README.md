@@ -1,2 +1,15 @@
-# Networking
-Top level module repo
+# Introduction
+
+Welcome to this module, Networking.
+
+This is intended as a foundation module and has minimal prerequisites. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn.
+
+If you are doing this module remotely, you need a good modern computer, review my "Getting Started notes now to understand what you need.
+
+## Copyright
+
+The content of these notes are (c) John ORaw 2025.
+
+I have tried to acknowledge and cite sources, if you think I have missed crediting someone else's work, please contact me by university e-mail and I will remedy.
+
+If you find errors in my notes or something has been superseded without me noticing, please let me know. The pace of technological development assures that my notes have a very short shelf life. They are intended to be a starting point for your studies, not the end point.
