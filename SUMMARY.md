@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Introduction and Study Sequence](README.md)
-  * [Week 1](introduction-and-study-sequence/week-1.md)
-  * [Week 2](introduction-and-study-sequence/week-2.md)
+* [Networking](README.md)
+  * [Week 1](networking/week-1.md)
+  * [Week 2](networking/week-2.md)

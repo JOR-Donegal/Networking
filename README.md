@@ -1,4 +1,8 @@
-# Introduction
+---
+description: Introduction and Study Sequence
+---
+
+# Networking
 
 Welcome to this module, Networking.
 
