@@ -6,3 +6,9 @@ I have covered [Getting Started](https://johnoraw-education.gitbook.io/iac/getti
 
 I have covered [Computer Requirements](https://johnoraw-education.gitbook.io/iac/readme/week-1) in another module.
 
+If you are new to networking, I recommend&#x20;
+
+_Computer Networks, 6th edition, Published by Pearson (July 14, 2021)_
+
+although earlier versions of the book are cheaper and almost perfect for understanding the underlying principles.&#x20;
+
