@@ -1,6 +1,6 @@
 # Week 1
 
-You need to read some theory to get started, specifically[ physical network theory](https://app.gitbook.com/o/QPfy4AwGQImQTS0uxR0R/s/HwiYpMJrNt6QDO9obtab/) (PNT).&#x20;
+You need to read some theory to get started, specifically [physical network theory](https://johnoraw-education.gitbook.io/networking/pnt) (PNT).&#x20;
 
 I have covered [Getting Started](https://johnoraw-education.gitbook.io/iac/getting-started) in another module.&#x20;
 
