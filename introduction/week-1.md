@@ -11,7 +11,3 @@ If you are new to networking, I recommend&#x20;
 _Computer Networks, 6th edition, Published by Pearson (July 14, 2021)_
 
 although earlier versions of the book are cheaper and almost perfect for understanding the underlying principles.&#x20;
-
-
-
-You need to get started in an environment where you can carry out practical networking exercises. We will use GNS3 for this.&#x20;
