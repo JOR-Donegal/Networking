@@ -6,6 +6,6 @@ Sadly, I've been working with Ethernet since the 1980s! This collection of notes
 
 Start by understanding the generic concept of [layered models](https://johnoraw-education.gitbook.io/networking/layered-models).
 
-Then go through the theory notes on Ethernet and complete then fully.
+Then go through my notes on [Ethernet Theory](https://johnoraw-education.gitbook.io/networking/ethernet-theory) and complete then fully.
 
-These notes are intended to introduce a post-graduate student to networking practices. I intend to provide the student with a solid grounding in requirements and practices from a theoretical perspective, before we get stuck into the practical elements.
+These notes are intended to introduce a post-graduate student to Local Are Networking (LAN) practices. I intend to provide the student with a solid grounding in requirements and practices from a theoretical perspective, before we get stuck into the practical elements.
