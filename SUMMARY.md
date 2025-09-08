@@ -6,3 +6,5 @@
   * [Week 3](networking/week-3.md)
   * [Week 4](networking/week-4.md)
   * [Week 5](networking/week-5.md)
+  * [Week 6](networking/week-6.md)
+  * [Week 7](networking/week-7.md)
