@@ -6,7 +6,7 @@ I reserve week 1 for introductions and getting started.
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
-This is intended as a foundation module and has minimal prerequisites. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. I intend to provide the student with a solid grounding in network infrastructure requirements and practices both from a theoretical perspective and as an applied discipline.
+This is intended as a foundation module and has minimal prerequisites. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. I intend to provide the student with a solid grounding in network infrastructure requirements and practices both from a theoretical perspective and as an applied discipline. I began working with TCP/IP and Ethernet in the 1980s (!) and have been writing course and training material since the late 1990s. This module was written for level 9 in 2015 and is updated annually.
 
 If you are doing this module remotely, you need a good modern computer, review my "Getting Started notes now to understand what you need.
 
