@@ -1,7 +1,7 @@
-# Week 9
+# Week 8
 
-You must have read and understood the Zones and Perimeter notes presented in week 8 before continuing to this work! This week we will proceed with practical exercise based on the Z\&P theory.
+You have a big study and reading load this week, I need you to understand firewalls and how to place them in network design to create zones, with perimeters. I need to introduce just enough cryptography and its application in Virtual Private Networks (VPNs).
 
-There is a lot of practical material this week, work through the [Zones & Perimeters Exercises](https://johnoraw-education.gitbook.io/networking/routingpractice).&#x20;
+Go through my [Zones & Perimeters Theory](https://johnoraw-education.gitbook.io/networking/z-and-p-theory) notes.
 
-Keep detailed notes of what you do, you will need them later.&#x20;
+You need to have this material covered before you can move on to the practical implementations, next week.&#x20;

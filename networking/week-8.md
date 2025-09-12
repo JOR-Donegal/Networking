@@ -1,7 +1,7 @@
 # Week 8
 
-You have a big study and reading load this week, I need you to understand firewalls and how to place them in network design to create zones, with perimeters. I need to introduce just enough cryptography and its application in Virtual Private Networks (VPNs).
+You must have read and understood the Routing notes presented in week 6 before continuing to this work! This week we will again proceed with practical exercise based on the Routing theory and I assume you have fully completed [Routing Practice](https://johnoraw-education.gitbook.io/networking/routingpractice).
 
-Go through my [Zones & Perimeters Theory](https://johnoraw-education.gitbook.io/networking/z-and-p-theory) notes.
+In the practical material this week, work through the [Dynamic Routing Exercises](https://johnoraw-education.gitbook.io/networking/routingpractice).&#x20;
 
-You need to have this material covered before you can move on to the practical implementations, next week.&#x20;
+Keep detailed notes of what you do, you will need them later.&#x20;
