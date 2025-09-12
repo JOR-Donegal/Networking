@@ -11,3 +11,4 @@
   * [Week 8](networking/week-8.md)
   * [Week 9](networking/week-9.md)
   * [Week 10](networking/week-10.md)
+  * [Week 11](networking/week-11.md)
