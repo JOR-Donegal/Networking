@@ -8,4 +8,8 @@ We need to become familiar with working at the command line interface of Cisco d
 
 You now know how to do initial setup on a switch when you take it out of the box. If you keep the scripts from this or take listings from the switch, you have a record of your work which you can use to recreate it.
 
-Finally, a little reading, understanding the generic concept of [layered models](https://johnoraw-education.gitbook.io/networking/layered-models).
+Finally, a little reading.&#x20;
+
+Understanding the generic concept of [layered models](https://johnoraw-education.gitbook.io/networking/layered-models).
+
+Read a little about [Legacy Technology](https://jor-donegal.github.io/LegacyCommunications/), we need to know the terminology.
